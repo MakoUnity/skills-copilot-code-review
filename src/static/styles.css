@@ -1,8 +1,8 @@
 /* Color palette */
 :root {
-    /* Banner customization */
-    --banner-bg: var(--success);
-    --banner-padding: 1rem;
+  /* Banner customization */
+  --banner-bg: var(--success);
+  --banner-padding: 1rem;
   /* Primary colors */
   --primary: #1a237e;
   --primary-light: #534bae;
